@@ -2,7 +2,7 @@
 
 # Regeneron Application Portfolio
 
-Portfolio of Applications Developed for Regeneron Pharmaceuticals. The applications are proprietary and private.
+Portfolio of Applications Developed for Regeneron Pharmaceuticals.
 
 - [Asset Approval](https://github.com/danielvallecl/regeneron-applications/tree/main/rgn-asset-approval)
 
