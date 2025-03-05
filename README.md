@@ -4,6 +4,8 @@
 
 Portfolio of Applications Developed for Regeneron Pharmaceuticals.
 
+Note: These repositories are private and can be made available for review during programming interviews upon request.
+
 - [Asset Approval](https://github.com/danielvallecl/regeneron-applications/tree/main/rgn-asset-approval)
 
 - [Capital Expenditure Approval](https://github.com/danielvallecl/regeneron-applications/tree/main/rgn-cer-approvals)
