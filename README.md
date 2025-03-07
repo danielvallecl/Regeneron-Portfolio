@@ -2,7 +2,7 @@
 
 # Regeneron Application Portfolio
 
-Portfolio of Applications Developed for Regeneron Pharmaceuticals.
+Portfolio of Applications developed for Regeneron Pharmaceuticals.
 
 Note: These repositories are private and can be made available for review during programming interviews upon request.
 
